@@ -30,3 +30,7 @@ const z = "«";
 
 const hello = h+e+l+l+o;
 console.log(hello); //output: ħ¹³³ø
+
+//or you could do:
+const arr = [h,i," ",d,u,d,e,s]
+console.log(arr)
