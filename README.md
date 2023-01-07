@@ -6,3 +6,5 @@ this works on javascript,
 HOWEVER: i could not get it working on rust so sorry :(
 
 you can changge them if you want.
+
+i added a example in example.js
